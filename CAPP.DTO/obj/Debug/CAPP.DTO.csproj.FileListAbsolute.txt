@@ -1,0 +1,9 @@
+D:\Rajini\CAPP\CappTfs\CAPP\CAPP.DTO\bin\Debug\CAPP.DTO.dll
+D:\Rajini\CAPP\CappTfs\CAPP\CAPP.DTO\bin\Debug\CAPP.DTO.pdb
+D:\Rajini\CAPP\CappTfs\CAPP\CAPP.DTO\obj\Debug\CAPP.DTO.dll
+D:\Rajini\CAPP\CappTfs\CAPP\CAPP.DTO\obj\Debug\CAPP.DTO.pdb
+C:\Users\Sunil\Documents\GitHub\CAPP\CAPP.DTO\bin\Debug\CAPP.DTO.dll
+C:\Users\Sunil\Documents\GitHub\CAPP\CAPP.DTO\bin\Debug\CAPP.DTO.pdb
+C:\Users\Sunil\Documents\GitHub\CAPP\CAPP.DTO\obj\Debug\CAPP.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Sunil\Documents\GitHub\CAPP\CAPP.DTO\obj\Debug\CAPP.DTO.dll
+C:\Users\Sunil\Documents\GitHub\CAPP\CAPP.DTO\obj\Debug\CAPP.DTO.pdb

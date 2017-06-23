@@ -1,0 +1,9 @@
+D:\Rajini\CAPP\CappTfs\CAPP\CAPP.Data\bin\Debug\CAPP.Data.dll
+D:\Rajini\CAPP\CappTfs\CAPP\CAPP.Data\bin\Debug\CAPP.Data.pdb
+D:\Rajini\CAPP\CappTfs\CAPP\CAPP.Data\obj\Debug\CAPP.Data.dll
+D:\Rajini\CAPP\CappTfs\CAPP\CAPP.Data\obj\Debug\CAPP.Data.pdb
+C:\Users\Sunil\Documents\GitHub\CAPP\CAPP.Data\bin\Debug\CAPP.Data.dll
+C:\Users\Sunil\Documents\GitHub\CAPP\CAPP.Data\bin\Debug\CAPP.Data.pdb
+C:\Users\Sunil\Documents\GitHub\CAPP\CAPP.Data\obj\Debug\CAPP.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sunil\Documents\GitHub\CAPP\CAPP.Data\obj\Debug\CAPP.Data.dll
+C:\Users\Sunil\Documents\GitHub\CAPP\CAPP.Data\obj\Debug\CAPP.Data.pdb

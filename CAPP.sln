@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPP.Web", "CAPP.Web\CAPP.Web.csproj", "{26E45CCE-6C5F-4034-94ED-1001ABC27CE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPP.Service", "CAPP.Service\CAPP.Service.csproj", "{928DD072-7DE9-4114-8729-886B9DA3F23F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPP.Service.Tests", "CAPP.Service.Tests\CAPP.Service.Tests.csproj", "{47C9298D-73CF-49E7-AF04-B7AF94BFE5A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPP.DTO", "CAPP.DTO\CAPP.DTO.csproj", "{C70B512F-D3AA-4A9A-977D-D216DCC19E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPP.BL", "CAPP.BL\CAPP.BL.csproj", "{01F3EE90-B522-4D81-B9B2-D72C45022448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPP.DAL", "CAPP.DAL\CAPP.DAL.csproj", "{2CEBEC44-D32F-4EC6-B759-A052850C80B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPP.Data", "CAPP.Data\CAPP.Data.csproj", "{0AD7B60C-268C-4935-9434-7C6FA943E1D6}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CAPP.Database", "CAPP.Database\CAPP.Database.sqlproj", "{D50B5504-D8E2-480E-A714-BD31D7948FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E45CCE-6C5F-4034-94ED-1001ABC27CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E45CCE-6C5F-4034-94ED-1001ABC27CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E45CCE-6C5F-4034-94ED-1001ABC27CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E45CCE-6C5F-4034-94ED-1001ABC27CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928DD072-7DE9-4114-8729-886B9DA3F23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928DD072-7DE9-4114-8729-886B9DA3F23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928DD072-7DE9-4114-8729-886B9DA3F23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928DD072-7DE9-4114-8729-886B9DA3F23F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C9298D-73CF-49E7-AF04-B7AF94BFE5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C9298D-73CF-49E7-AF04-B7AF94BFE5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C9298D-73CF-49E7-AF04-B7AF94BFE5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C9298D-73CF-49E7-AF04-B7AF94BFE5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70B512F-D3AA-4A9A-977D-D216DCC19E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70B512F-D3AA-4A9A-977D-D216DCC19E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70B512F-D3AA-4A9A-977D-D216DCC19E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70B512F-D3AA-4A9A-977D-D216DCC19E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F3EE90-B522-4D81-B9B2-D72C45022448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F3EE90-B522-4D81-B9B2-D72C45022448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F3EE90-B522-4D81-B9B2-D72C45022448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F3EE90-B522-4D81-B9B2-D72C45022448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CEBEC44-D32F-4EC6-B759-A052850C80B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEBEC44-D32F-4EC6-B759-A052850C80B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEBEC44-D32F-4EC6-B759-A052850C80B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEBEC44-D32F-4EC6-B759-A052850C80B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD7B60C-268C-4935-9434-7C6FA943E1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD7B60C-268C-4935-9434-7C6FA943E1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD7B60C-268C-4935-9434-7C6FA943E1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD7B60C-268C-4935-9434-7C6FA943E1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50B5504-D8E2-480E-A714-BD31D7948FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50B5504-D8E2-480E-A714-BD31D7948FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50B5504-D8E2-480E-A714-BD31D7948FF1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D50B5504-D8E2-480E-A714-BD31D7948FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50B5504-D8E2-480E-A714-BD31D7948FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50B5504-D8E2-480E-A714-BD31D7948FF1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://insitucapp.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CAPP.Web\\CAPP.Web.csproj
+		SccProjectName1 = CAPP.Web
+		SccLocalPath1 = CAPP.Web
+		SccProjectUniqueName2 = CAPP.Service\\CAPP.Service.csproj
+		SccProjectName2 = CAPP.Service
+		SccLocalPath2 = CAPP.Service
+		SccProjectUniqueName3 = CAPP.Service.Tests\\CAPP.Service.Tests.csproj
+		SccProjectName3 = CAPP.Service.Tests
+		SccLocalPath3 = CAPP.Service.Tests
+		SccProjectUniqueName4 = CAPP.DTO\\CAPP.DTO.csproj
+		SccProjectName4 = CAPP.DTO
+		SccLocalPath4 = CAPP.DTO
+		SccProjectUniqueName5 = CAPP.BL\\CAPP.BL.csproj
+		SccProjectName5 = CAPP.BL
+		SccLocalPath5 = CAPP.BL
+		SccProjectUniqueName6 = CAPP.DAL\\CAPP.DAL.csproj
+		SccProjectName6 = CAPP.DAL
+		SccLocalPath6 = CAPP.DAL
+		SccProjectUniqueName7 = CAPP.Data\\CAPP.Data.csproj
+		SccProjectName7 = CAPP.Data
+		SccLocalPath7 = CAPP.Data
+		SccProjectUniqueName8 = CAPP.Database\\CAPP.Database.sqlproj
+		SccProjectName8 = CAPP.Database
+		SccLocalPath8 = CAPP.Database
+	EndGlobalSection
+EndGlobal
